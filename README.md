@@ -1,2 +1,2 @@
 # V-TRN-SCRY-AERO
-terrain location detection
+Uses V-TRN to detect precide location of drone for full autonomous flight in GPS denied region.
